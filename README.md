@@ -1,1 +1,4 @@
 # assignment2-Kanukuntla
+# Sumanth Reddy Kanukuntla
+###### Birla Science Museum -Hyderabad
+B. M. Birla Science Museum is an Indian science museum located in Hyderabad, India. Constructed by civil engineer P. A. Singaravelu, it comprises a **planetarium, museum, science centre, art gallery as well as a dinosaurium**. The museum itself was the second phase of the science centre when it opened in 1990.The centre also houses India's first private Space Museum. **The museum is a unique facility which is dedicated to history of the space program of India**.The space museum was inaugurated in July 2019 and was curated by Pranav Sharma.
