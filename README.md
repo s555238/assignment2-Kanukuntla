@@ -41,3 +41,27 @@ Four Indian Cities I would recommed to see.
 >  " life is like moving bicycle .To keep balance, you must keep moving" *-Albert Einstein*
 
 > "Don't find fault, find a remedy" *-Henry Ford*
+
+- - - 
+# stack over flow 
+> To get my last tweet in PHP I use this code :
+[Getting last tweet with PHP](https://stackoverflow.com/questions/6416815/getting-last-tweet-with-php)
+
+```
+<?php
+
+function getTwitterStatus($userid){
+$url = "https://api.twitter.com/1/statuses/user_timeline/$userid.xml?count=1&include_rts=1callback=?";
+
+$xml = simplexml_load_file($url) or die("could not connect");
+
+       foreach($xml->status as $status){
+       $text = $status->text;
+       }
+       echo $text;
+ }
+
+// USAGE
+getTwitterStatus("chriscoyier");
+```
+[Get Latest Twitter Status](https://css-tricks.com/snippets/php/get-latest-twitter-status/)
