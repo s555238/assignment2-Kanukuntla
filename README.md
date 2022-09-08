@@ -18,3 +18,8 @@ Rajiv Gandhi International airport
 10. Turn right after St Nirankari Satsang Bhawan
 11. Turn left onto Naubat Pahad Ln
 
+- Birla Mandir
+- LB Stadium
+- Secretariat
+- Shahi Masjid
+- Tank Bund
