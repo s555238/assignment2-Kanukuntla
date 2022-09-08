@@ -26,3 +26,12 @@ Rajiv Gandhi International airport
 
 [AboutMefile](AboutMe.md)
 
+- - -
+# Cities Table
+Four Indian Cities I would recommed to see.
+| City Name | Places to Visit | Visiting hours of the locations |
+| --- | --- | --- |
+| Hyderabad |  Charminar | 1 Hours |
+| Chennai | Mahabalipuram | 2 Hours |
+| Kerala | Munnar | 5 hours |
+| Banglore | Banglore Place | 4 Hours |
