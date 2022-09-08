@@ -35,3 +35,9 @@ Four Indian Cities I would recommed to see.
 | Chennai | Mahabalipuram | 2 Hours |
 | Kerala | Munnar | 5 hours |
 | Banglore | Banglore Place | 4 Hours |
+
+- - -
+# Motivational Quotes
+>  " life is like moving bicycle .To keep balance, you must keep moving" *-Albert Einstein*
+
+> "Don't find fault, find a remedy" *-Henry Ford*
